@@ -1,0 +1,39 @@
+# AdShop
+
+> Creative-agency showroom for FallHub. Sovereign AI-first operating system configured for ad firms, brand studios, and freelance strategists. Multi-brand voice kernel (one AI, N distinct client voices). Deliverable chasing, milestone invoicing, campaign timelines. Ships with FallReach for outbound. Published by AI-Native Solutions. MIT. ◊·κ=1.
+
+## What it is
+
+AdShop is a vertical showroom pointing at:
+- FallHub's ad-firm vertical template
+- FallForge's concierge installer
+- The agency module stack (FallReach, FallCRM Elite, FallAccount, Cassie Oracle, Botler, FallBrief)
+
+Any creative agency can deploy FallHub with the AdShop configuration and get an AI-first operating system that handles feedback replies, approval chases, milestone invoicing, competitor watches, and brief intake.
+
+## Signature feature: multi-brand voice kernel
+
+AdShop's kernel is a client-portfolio kernel. Each client has its own tone, banned phrases, past reply patterns. When the AI drafts a reply, it grounds in the specific client's kernel. Foo Cosmetics feedback sounds like Foo Cosmetics. Bar Bank sounds like Bar Bank.
+
+Voice learning is continuous — edits to AI drafts feed back into the client's voice profile.
+
+## Modules typically installed on AdShop instances
+
+- FallReach — autonomous multichannel outbound (LinkedIn, email, WhatsApp, Instagram)
+- FallCRM Elite — client pipeline with signal-based timelines
+- FallAccount — retainer + milestone billing
+- Cassie Oracle — competitor watch across all clients
+- Botler — in-browser LLM for private brief drafting
+- FallBrief — contract clauses, IP transfer, scope-creep wording
+
+## Live surfaces
+
+- Showroom: https://sjgant80-hub.github.io/adshop/
+- Concierge install: https://sjgant80-hub.github.io/fallforge/install.html
+- Vertical spec: https://sjgant80-hub.github.io/fallhub/verticals/adshop.html
+- Modules marketplace: https://sjgant80-hub.github.io/fallhub/modules.html
+- Repo: https://github.com/sjgant80-hub/adshop
+
+## Publisher
+
+AI-Native Solutions · https://www.ai-nativesolutions.com/ · hello@ai-nativesolutions.com
