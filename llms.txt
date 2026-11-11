@@ -1,6 +1,6 @@
 # AdShop
 
-> Creative-agency showroom for FallHub. Sovereign AI-first operating system configured for ad firms, brand studios, and freelance strategists. Multi-brand voice kernel (one AI, N distinct client voices). Deliverable chasing, milestone invoicing, campaign timelines. Ships with FallReach for outbound. Published by AI-Native Solutions. MIT. ◊·κ=1.
+> Creative-agency showroom for FallHub. Sovereign AI-first operating system configured for ad firms, brand studios, and freelance strategists. Multi-brand voice kernel (one AI, N distinct client voices). Deliverable chasing, milestone invoicing, campaign timelines. Ships with FallReach for outbound. Published by AI-Native Solutions. MIT. .
 
 ## What it is
 
